@@ -1,8 +1,5 @@
 # Savannah Wallis — Data Science & Analytics Portfolio  
 
-Hi! I’m Savannah Wallis, a data science graduate student with a background in biology and healthcare analytics.  
-I’m interested in predictive modeling, clinical risk analytics, and business intelligence.
-
 ---
 
 ## Featured Projects  
