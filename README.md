@@ -1,4 +1,4 @@
-# 1Savannah Wallis — Data Science & Analytics Portfolio  
+# Savannah Wallis — Data Science & Analytics Portfolio  
 
 ---
 
